@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethansimmons
 - 👀 I’m interested in: building things, software, cooking, being outside, people.
-- 🌱 I’m currently learning: ecommerce, photography, how to be nicer.
+- 🌱 I’m currently learning: ecommerce, photography, how to work from home.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [ethansimmons@gmail.com](mailto:ethansimmons@gmail.com?subject=[GitHub]%20About%20Me)
 
